@@ -4,5 +4,4 @@ I'm [Vuong Dang](https://vuongdang.dev), a passionate full-stack developer from 
 
 - I’m currently working on Full-Stack App Development with Java, SpringBoot, TypeScript, AngularJS, React
 - I’m currently learning NextJS, Blockchain, Web3
-
-### Where to find me
+- 
